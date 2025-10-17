@@ -5,7 +5,11 @@ const urlsToCache = [
   '/manifest.json',
   '/favicon.ico',
   '/logo192.png',
-  '/logo512.png'
+  '/logo512.png',
+
+  '/static/js/453.fa71e030.chunk.js',
+  '/static/js/main.b3ddad31.js',
+  '/static/css/main.8910c831.css',
 ];
 
 
